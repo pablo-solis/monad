@@ -1,1 +1,1 @@
-These module contain methods for creating and displaying monads in the context of algebraic geometry. 
+These module contain basic methods for creating and  computing vector bundles on the projective line P1 and on the product P1 x P1. This was part of a research product to produce vector bundles on P1 x P1 with natural cohomology. 
